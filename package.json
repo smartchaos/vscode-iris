@@ -39,7 +39,7 @@
     "iris golang"
   ],
   "extensionDependencies": [
-    "ms-vscode.Go"
+    "golang.Go"
   ],
   "main": "./out/extension",
   "scripts": {
